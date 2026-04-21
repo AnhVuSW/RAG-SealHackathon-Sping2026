@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ':*)",
+      "Bash(venv\\\\Scripts\\\\python.exe -c \"import llama_index.core.agent as a; print\\(dir\\(a\\)\\)\")",
+      "Bash(python -c \"import llama_index.core.agent as a; print\\(dir\\(a\\)\\)\")"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+# Core RAG
+llama-index
+llama-index-readers-file
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+lancedb
+sentence-transformers
+torch
+
+# Ingestion
+pandas
+pymupdf
+python-docx
+beautifulsoup4
+requests
+
+# Reranker
+llama-index-postprocessor-flag-embedding-reranker
+FlagEmbedding
+
+# Cost tracking
+langfuse
+
+# Agent
+groq
+
+# UI
+streamlit
+
+# Utilities
+python-dotenv
+pyarrow
+nest-asyncio

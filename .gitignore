@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+.vs/
+*.swp
+*.swo
+*~
+*.slnx
+*.suo
+*.user
+
+# Python interpreter
+.python-version
+
+# Data & cache
+data/raw/
+data/lancedb/
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Streamlit
+.streamlit/
+.streamlit.secrets/
+
+# Model files (large)
+*.bin
+*.model
+*.pt
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db
